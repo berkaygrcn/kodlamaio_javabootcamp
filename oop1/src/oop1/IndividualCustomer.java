@@ -17,4 +17,5 @@ public class IndividualCustomer extends Customers {
 		this.lastName = lastName;
 	}
 	
+	
 }
